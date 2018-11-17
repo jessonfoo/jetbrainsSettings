@@ -40,6 +40,7 @@ module.exports = {
         "eol-last"                           : 0,
         "padded-blocks"                      : 0,
         "no-unused-vars"                     : ["warn", {"vars": "all"}],
+        "no-useless-escapes"                 : 0,
         "no-multiple-empty-lines"            : ["warn", {max: 2}],
         "no-undef"                           : ["warn"]
     }
